@@ -11,9 +11,9 @@ Python Script for CDR analysis which Detects SIM replacement, Device changes, la
 - Prints a summary of detected events in the console
 
 # Required Columns
-IMSI
-IMEI
-Call Start Time
+- IMSI
+- IMEI
+- Call Start Time
 
 # Output
 
