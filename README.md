@@ -6,6 +6,7 @@ Python Script for CDR analysis which Detects SIM replacement, Device changes, la
 - Detects SIM Replacement (IMSI change)
 - Detects Device Change (IMEI change)
 - Identifies Late Night Calls (11:00 PM – 6:00 AM)
+- Find Out Most interacted Call from A -> B and  B -> A
 - Reads the CDR Excel file from a user-provided path
 - Generates a new Excel report with investigation results
 - Prints a summary of detected events in the console
